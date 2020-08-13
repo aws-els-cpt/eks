@@ -1,6 +1,6 @@
-# Lab 7 - Working with ALB Ingress Controller:
+# Lab 8 - Working with ALB Ingress Controller:
 
-For this lab, you will need to execute the script `~/environment/eks/labs/07-Ingress/configure-ingress.sh` to install ALB Ingress over your Cluster. You can check more information regarding the ALB Ingress at the AWS Docs here: https://docs.aws.amazon.com/eks/latest/userguide/alb-ingress.html
+For this lab, you will need to execute the script `~/environment/eks/labs/08-ingress/configure-ingress.sh` to install ALB Ingress over your Cluster. You can check more information regarding the ALB Ingress at the AWS Docs here: https://docs.aws.amazon.com/eks/latest/userguide/alb-ingress.html
 
 ## After Installing the the Ingress, you will be able to check a new pod on your cluster:
 

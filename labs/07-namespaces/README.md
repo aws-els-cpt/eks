@@ -1,9 +1,9 @@
-# Lab 8 - Working with namespaces
+# Lab 7 - Working with namespaces
 
-For this lab, you'll need to be in the `~/environment/eks/labs/08-namespaces` directory in Cloud9:
+For this lab, you'll need to be in the `~/environment/eks/labs/07-namespaces` directory in Cloud9:
 
 ```bash
-$ cd ~/environment/eks/labs/08-namespaces
+$ cd ~/environment/eks/labs/07-namespaces
 ```
 
 ## Define the namespaces
